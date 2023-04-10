@@ -15,3 +15,11 @@ multiplayer-map-for-shooter
 <p align="center">
   <img src="https://github.com/Den1sovDm1triy/multiplayer-map-for-shooter/raw/main/PicturesForReadme/Exmpl_1.png"/>
 </p>
+
+### Sniper Locations
+Позиция на карте, которую удобно занять игрокам, предпочитающим уничтожать противника с безопасного расстояния вместо того, чтобы участвовать в перестрелках на средней или ближней дистанции. Референс:
+<p align="center">
+  <img src="https://github.com/Den1sovDm1triy/multiplayer-map-for-shooter/raw/main/PicturesForReadme/Exmpl_2.png"/>
+</p>
+
+### Framed Structure
