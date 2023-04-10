@@ -48,6 +48,9 @@ multiplayer-map-for-shooter
 </p>
 
 ## Блокаут
+
+|   |   |
+|---|---|
 | <p align="center">
   <img src="https://github.com/Den1sovDm1triy/multiplayer-map-for-shooter/raw/main/PicturesForReadme/Map_1.png"/>
 </p> | <p align="center">
